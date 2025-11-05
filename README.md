@@ -12,5 +12,5 @@
 - **Learning Focus:** Front-end & Back-end Web Development
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/mahlatsi-maluleke-8840142a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- 👩‍💻 [GitHub]([https://github.com/YOURUSERNAME](https://github.com/Luks-2/Luksss))
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahlatsi-maluleke-8840142a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👩‍💻 [GitHub](https://github.com/Luks-2/Luksss)
